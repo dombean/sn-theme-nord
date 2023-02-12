@@ -5,7 +5,7 @@
     "area": "themes",
     "version": "0.0.0",
     "description": "Nord Theme for Standard Notes",
-    "url": "https://cdn.jsdelivr.net/gh/dombean/sn-theme-nord@v0.0.0/main.css",
+    "url": "https://cdn.jsdelivr.net/gh/dombean/sn-theme-nord@0.0.0/main.css",
     "download_url": "https://github.com/dombean/sn-theme-nord/archive/refs/tags/v0.0.0.zip",
     "latest_url": "https://cdn.jsdelivr.net/gh/dombean/sn-theme-nord@0.0.0/ext.json",
     "dock_icon": {

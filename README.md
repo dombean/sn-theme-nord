@@ -14,7 +14,7 @@ To install the Nord theme, follow these steps:
 2. Select **"Open Preferences"** from the menu that appears.
 3. In the left sidebar of the preferences window, click on the **"General"** tab.
 4. Scroll to the bottom of the page and click on **"Advanced Settings"** to expand the options.
-5. In the **"Install External Plugin"** section, paste the following URL into the field and click on "Install": `https://cdn.jsdelivr.net/gh/dombean/sn-theme-nord@main/ext.json`
+5. In the **"Install External Plugin"** section, paste the following URL into the field and click on "Install": `https://cdn.jsdelivr.net/gh/dombean/sn-theme-nord@latest/ext.json`
 
 ### Using the Theme
 

@@ -1,0 +1,11 @@
+{
+    "name": "sn-theme-nord",
+    "version": "0.0.0",
+    "sn": {
+        "main": "main.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/dombean/sn-theme-nord.git"
+    }
+}

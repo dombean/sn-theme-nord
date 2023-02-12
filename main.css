@@ -44,3 +44,13 @@
     --sn-stylekit-menu-border: 1px solid #434C5E;
     --navigation-item-selected-background-color: var(--sn-stylekit-background-color);
 }
+
+.cm-fat-cursor .CodeMirror-cursor {
+    width: auto;
+    border: 0 !important;
+    background: #00FFFF;
+}
+
+.cm-s-default .cm-link {
+    color: #477096;
+}
